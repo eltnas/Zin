@@ -1,2 +1,2 @@
-# zin_erp
+# Zin
 Pequeno ERP feito em Java
